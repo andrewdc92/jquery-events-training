@@ -1,4 +1,13 @@
-# Training: DOM Events & jQuery
+
+Andrew Cordivari
+https://github.com/andrewdc92/jquery-events-training
+
+This was rough!!! First one was easy. The click event wasn't bad...definitely got stumped on the second one, as I even tried the solution and still didn't get the forms to stop submitting? I thought this was because the ? mark in the URL made the path different than my local file. ANyway, I spent about four hours on it and called it to finish up my website. I conceptually get it, just very hard. '
+
+
+
+
+
 
 In this training, you'll practice with some of the most common DOM events in jQuery:
 
